@@ -1,7 +1,0 @@
-{
-  "base": "widgets/css/button",
-  "css": [
-    "common",
-    "colossus"
-  ]
-}

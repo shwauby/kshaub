@@ -1,7 +1,0 @@
-{
-  "aggregate": true,
-  "base": "social-login",
-  "media": [
-    "popup-buttons-iframe.html"
-  ]
-}

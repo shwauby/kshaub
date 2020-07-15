@@ -1,8 +1,0 @@
-{
-  "base": "widgets/css/button",
-  "css": [
-    "common",
-    "buttons-common",
-    "split-button"
-  ]
-}
