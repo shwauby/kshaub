@@ -1,0 +1,509 @@
+0000.000 (0) Opened log file at time: Wed, 15 Jan 2020 04:42:50 +0000 on http://35.237.139.96
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.2.5 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 3.6M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 7262.3 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.010 (0) Semaphore (fd, wp_options) being initialised
+0000.016 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.020 (0) Set semaphore last lock (fd) time to 2020-01-15 04:42:50
+0000.022 (0) Semaphore lock (fd) complete
+0000.028 (0) Backup run: resumption=0, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (0s ago), job type=backup
+0000.031 (0) Scheduling a resumption (1) after 300 seconds (1579063670) in case this run gets aborted
+0000.044 (0) Checking if we have a zip executable available
+0000.050 (0) Creation of backups of directories: beginning
+0000.056 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.083 (0) Total entities for the zip file: 394 directories, 2125 files (0 skipped as non-modified), 31 MB
+0000.092 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.097 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.102 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.107 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.111 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.114 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 2125 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0000.476 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 600 files added (on-disk size: 1806.4 KB)
+0000.481 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 700 files added (on-disk size: 1806.4 KB)
+0000.485 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 800 files added (on-disk size: 1806.4 KB)
+0000.491 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 900 files added (on-disk size: 1806.4 KB)
+0000.498 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1000 files added (on-disk size: 1806.4 KB)
+0000.501 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 2125 files batched, 501 (1002) added so far); re-opening (prior size: 1806.4 KB)
+0000.756 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1100 files added (on-disk size: 2592.4 KB)
+0000.761 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1200 files added (on-disk size: 2592.4 KB)
+0000.766 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1300 files added (on-disk size: 2592.4 KB)
+0000.771 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1400 files added (on-disk size: 2592.4 KB)
+0000.775 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1500 files added (on-disk size: 2592.4 KB)
+0000.778 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.3 MB, 2125 files batched, 501 (1503) added so far); re-opening (prior size: 2592.4 KB)
+0002.149 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1600 files added (on-disk size: 7091.6 KB)
+0002.154 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1700 files added (on-disk size: 7091.6 KB)
+0002.159 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1800 files added (on-disk size: 7091.6 KB)
+0002.164 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 1900 files added (on-disk size: 7091.6 KB)
+0002.168 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 2000 files added (on-disk size: 7091.6 KB)
+0002.171 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 2125 files batched, 501 (2004) added so far); re-opening (prior size: 7091.6 KB)
+0002.983 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip.tmp: 2100 files added (on-disk size: 9197 KB)
+0003.386 (0) Created plugins zip (0) - 9688.8 KB in 3.3 s (2911.3 KB/s) (sha1: 84f30bbe8b0785d2abd81c1d1f30056d12efc372, sha256: 383052732022290412a0820eee5de59a4749ab1f0846dabd020c954eb60db909)
+0003.391 (0) Beginning creation of dump of themes (split every: 400 MB)
+0003.398 (0) Total entities for the zip file: 45 directories, 195 files (0 skipped as non-modified), 3.1 MB
+0003.406 (0) Zip: backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0003.667 (0) Created themes zip (0) - 1936.9 KB in 0.3 s (7056.2 KB/s) (sha1: b2c04641dab8b33d20b9535b158eb6e52202d8bf, sha256: 90e6ea2bdff04051f793f757a8e064ba7d616bb64dd23c5652cc61b27641e9a0)
+0003.673 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0003.675 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0003.676 (0) finding files: wp-file-manager-pro: adding to list (1)
+0003.677 (0) finding files: 2020: adding to list (2)
+0003.680 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0003.684 (0) Total entities for the zip file: 4 directories, 1 files (0 skipped as non-modified), 0 MB
+0003.690 (0) Created uploads zip (0) - 0.7 KB in 0 s (76.5 KB/s) (sha1: f04ac47669a2e53043dfbd77966d8cec8c062f93, sha256: 29b14c051ec6e36a341db90642b118d8f5e74b1ef852221f9703e3d8499b49b5)
+0003.693 (0) Beginning backup of other directories found in the content directory (index: 0)
+0003.696 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0003.697 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0003.698 (0) finding files: uploads: skipping: this is the uploads directory
+0003.700 (0) finding files: index.php: adding to list (1)
+0003.701 (0) finding files: updraft: skipping: this is the updraft directory
+0003.702 (0) finding files: themes: skipping: this is the themes directory
+0003.704 (0) finding files: plugins: skipping: this is the plugins directory
+0003.705 (0) finding files: upgrade: skipping: excluded by options
+0003.709 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0003.717 (0) Created others zip (0) - 0.1 KB in 0 s (13.2 KB/s) (sha1: c09f5959624d2583a52900bae4394f5d8a40e10b, sha256: 7e9e9b1e27f3a7e0338681ea1f57f9fa69722c869a04e7221206aedbcea72658)
+0003.724 (0) Saving backup status to database (elements: 8)
+0003.791 (0) Beginning creation of database dump (WordPress DB)
+0003.796 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0003.834 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1204 bytes total)
+0003.837 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0003.849 (0) Table wp_options: Total expected rows (approximate): 192
+0003.883 (0) Table wp_options: Total rows added: 190 in 0.03 seconds
+0003.887 (0) Table wp_options: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_options.table.gz - 156.7 KB)
+0003.894 (0) Table wp_users: Total expected rows (approximate): 1
+0003.897 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0003.900 (0) Table wp_users: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_users.table.gz - 0.6 KB)
+0003.905 (0) Table wp_usermeta: Total expected rows (approximate): 18
+0003.908 (0) Table wp_usermeta: Total rows added: 18 in 0.00 seconds
+0003.909 (0) Table wp_usermeta: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_usermeta.table.gz - 0.9 KB)
+0003.916 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0003.917 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0003.920 (0) Table wp_commentmeta: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0003.925 (0) Table wp_comments: Total expected rows (approximate): 1
+0003.929 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0003.930 (0) Table wp_comments: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_comments.table.gz - 0.7 KB)
+0003.936 (0) Table wp_links: Total expected rows (approximate): 0
+0003.939 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0003.941 (0) Table wp_links: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_links.table.gz - 0.4 KB)
+0003.948 (0) Table wp_postmeta: Total expected rows (approximate): 2
+0003.950 (0) Table wp_postmeta: Total rows added: 2 in 0.00 seconds
+0003.953 (0) Table wp_postmeta: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_postmeta.table.gz - 0.4 KB)
+0003.960 (0) Table wp_posts: Total expected rows (approximate): 4
+0003.963 (0) Table wp_posts: Total rows added: 4 in 0.00 seconds
+0003.965 (0) Table wp_posts: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_posts.table.gz - 3.1 KB)
+0003.972 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0003.974 (0) Table wp_term_relationships: Total rows added: 1 in 0.00 seconds
+0003.977 (0) Table wp_term_relationships: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0003.984 (0) Table wp_term_taxonomy: Total expected rows (approximate): 1
+0003.986 (0) Table wp_term_taxonomy: Total rows added: 1 in 0.00 seconds
+0003.989 (0) Table wp_term_taxonomy: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0003.994 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0003.997 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0003.999 (0) Table wp_termmeta: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_termmeta.table.gz - 0.4 KB)
+0004.005 (0) Table wp_terms: Total expected rows (approximate): 1
+0004.009 (0) Table wp_terms: Total rows added: 1 in 0.00 seconds
+0004.011 (0) Table wp_terms: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_terms.table.gz - 0.4 KB)
+0004.017 (0) Table wp_wpfm_backup: Total expected rows (approximate): 0
+0004.021 (0) Table wp_wpfm_backup: Total rows added: 0 in 0.00 seconds
+0004.023 (0) Table wp_wpfm_backup: finishing file (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_wpfm_backup.table.gz - 0.3 KB)
+0004.029 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_options.table.gz (1/13): adding to final database dump
+0004.063 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_users.table.gz (2/13): adding to final database dump
+0004.066 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_usermeta.table.gz (3/13): adding to final database dump
+0004.069 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_commentmeta.table.gz (4/13): adding to final database dump
+0004.072 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_comments.table.gz (5/13): adding to final database dump
+0004.073 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_links.table.gz (6/13): adding to final database dump
+0004.075 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_postmeta.table.gz (7/13): adding to final database dump
+0004.076 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_posts.table.gz (8/13): adding to final database dump
+0004.078 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_term_relationships.table.gz (9/13): adding to final database dump
+0004.082 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_term_taxonomy.table.gz (10/13): adding to final database dump
+0004.084 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_termmeta.table.gz (11/13): adding to final database dump
+0004.086 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_terms.table.gz (12/13): adding to final database dump
+0004.088 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db-table-wp_wpfm_backup.table.gz (13/13): adding to final database dump
+0004.089 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: finished writing out complete database file (136 KB)
+0004.101 (0) Total database tables backed up: 13 (backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz, size: 165668, sha1: 78f57aa7d2c0585d48ef6211dd0b4d71cf3b3046, sha256: 6fb3e9decb312dccb5713adf215885f928c3e937e10324f27115aab80c4e9dca)
+0004.109 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0004.111 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0004.112 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0004.113 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+0004.115 (0) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+0004.117 (0) Saving backup history. Total backup size: 11.5 MB
+0004.120 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0004.125 (0) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+0004.128 (0) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+0004.129 (0) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+0004.131 (0) An error condition has occurred for the first time during this job
+0004.134 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0004.136 (0) Number of backup sets in history: 1; groups (db): 1
+0004.137 (0) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0004.140 (0) This backup set is the backup set just made, so will not be deleted.
+0004.140 (0) Number of backup sets in history: 1; groups (files): 1
+0004.141 (0) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0004.141 (0) This backup set is the backup set just made, so will not be deleted.
+0004.142 (0) This backup set is the backup set just made, so will not be deleted.
+0004.142 (0) This backup set is the backup set just made, so will not be deleted.
+0004.142 (0) This backup set is the backup set just made, so will not be deleted.
+0004.142 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0004.144 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0004.148 (0) Resume backup (cfae34be8797, 0): finish run
+0004.152 (0) Decremented the semaphore (fd) by 1
+0004.155 (0) Semaphore (fd) unlocked
+0004.157 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0004.161 (0) Rescheduling resumption 1: moving to 100 seconds from now (1579063474)
+0004.164 (0) No email will/can be sent - the user has not configured an email address.
+0004.165 (0) The backup has not finished; a resumption is scheduled
+0107.261 (1) Opened log file at time: Wed, 15 Jan 2020 04:44:37 +0000 on http://35.237.139.96
+0107.265 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 22.7M | 22M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0107.266 (1) Free space on disk containing Updraft's temporary directory: 7196 MB
+0107.270 (1) Backup run: resumption=1, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (107s ago), job type=backup, previous check-in=4s
+0107.274 (1) Scheduling a resumption (2) after 300 seconds (1579063777) in case this run gets aborted
+0107.278 (1) Checking if we have a zip executable available
+0107.280 (1) Creation of backups of directories: already finished
+0107.281 (1) Saving backup status to database (elements: 8)
+0107.286 (1) Database dump (WordPress DB): Creation was completed already
+0107.292 (1) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0107.294 (1) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0107.296 (1) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0107.297 (1) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+0107.299 (1) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+0107.300 (1) Saving backup history. Total backup size: 11.5 MB
+0107.304 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0107.307 (1) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+0107.309 (1) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+0107.310 (1) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+0107.312 (1) An error condition has occurred for the first time during this job
+0107.316 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0107.317 (1) Number of backup sets in history: 1; groups (db): 1
+0107.319 (1) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0107.320 (1) This backup set is the backup set just made, so will not be deleted.
+0107.320 (1) Number of backup sets in history: 1; groups (files): 1
+0107.321 (1) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0107.321 (1) This backup set is the backup set just made, so will not be deleted.
+0107.324 (1) This backup set is the backup set just made, so will not be deleted.
+0107.324 (1) This backup set is the backup set just made, so will not be deleted.
+0107.324 (1) This backup set is the backup set just made, so will not be deleted.
+0107.324 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0107.325 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0107.328 (1) Resume backup (cfae34be8797, 1): finish run
+0107.329 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0107.333 (1) No email will/can be sent - the user has not configured an email address.
+0107.334 (1) The backup has not finished; a resumption is scheduled
+0414.478 (2) Opened log file at time: Wed, 15 Jan 2020 04:49:44 +0000 on http://35.237.139.96
+0414.480 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.1M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0414.481 (2) Free space on disk containing Updraft's temporary directory: 7212.6 MB
+0414.485 (2) Backup run: resumption=2, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (414s ago), job type=backup
+0414.488 (2) Scheduling a resumption (3) after 300 seconds (1579064084) in case this run gets aborted
+0414.492 (2) Checking if we have a zip executable available
+0414.492 (2) Creation of backups of directories: already finished
+0414.493 (2) Saving backup status to database (elements: 8)
+0414.497 (2) Database dump (WordPress DB): Creation was completed already
+0414.504 (2) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0414.505 (2) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0414.507 (2) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0414.508 (2) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+0414.509 (2) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+0414.512 (2) Saving backup history. Total backup size: 11.5 MB
+0414.516 (2) Requesting upload of the files that have not yet been successfully uploaded (5)
+0414.518 (2) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+0414.520 (2) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+0414.521 (2) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+0414.523 (2) An error condition has occurred for the first time during this job
+0414.525 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0414.528 (2) Number of backup sets in history: 1; groups (db): 1
+0414.529 (2) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0414.530 (2) This backup set is the backup set just made, so will not be deleted.
+0414.530 (2) Number of backup sets in history: 1; groups (files): 1
+0414.532 (2) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0414.532 (2) This backup set is the backup set just made, so will not be deleted.
+0414.533 (2) This backup set is the backup set just made, so will not be deleted.
+0414.533 (2) This backup set is the backup set just made, so will not be deleted.
+0414.533 (2) This backup set is the backup set just made, so will not be deleted.
+0414.533 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0414.534 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0414.537 (2) Resume backup (cfae34be8797, 2): finish run
+0414.538 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0414.541 (2) No email will/can be sent - the user has not configured an email address.
+0414.542 (2) The backup has not finished; a resumption is scheduled
+0721.671 (3) Opened log file at time: Wed, 15 Jan 2020 04:54:52 +0000 on http://35.237.139.96
+0721.674 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.7M | 6M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0721.676 (3) Free space on disk containing Updraft's temporary directory: 7160.4 MB
+0721.680 (3) Backup run: resumption=3, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (722s ago), job type=backup
+0721.682 (3) Scheduling a resumption (4) after 300 seconds (1579064392) in case this run gets aborted
+0721.685 (3) Checking if we have a zip executable available
+0721.687 (3) Creation of backups of directories: already finished
+0721.688 (3) Saving backup status to database (elements: 8)
+0721.692 (3) Database dump (WordPress DB): Creation was completed already
+0721.697 (3) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0721.699 (3) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0721.700 (3) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0721.701 (3) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+0721.703 (3) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+0721.704 (3) Saving backup history. Total backup size: 11.5 MB
+0721.708 (3) Requesting upload of the files that have not yet been successfully uploaded (5)
+0721.710 (3) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+0721.712 (3) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+0721.713 (3) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+0721.713 (3) An error condition has occurred for the first time during this job
+0721.717 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0721.718 (3) Number of backup sets in history: 1; groups (db): 1
+0721.720 (3) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0721.721 (3) This backup set is the backup set just made, so will not be deleted.
+0721.721 (3) Number of backup sets in history: 1; groups (files): 1
+0721.722 (3) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+0721.722 (3) This backup set is the backup set just made, so will not be deleted.
+0721.724 (3) This backup set is the backup set just made, so will not be deleted.
+0721.724 (3) This backup set is the backup set just made, so will not be deleted.
+0721.724 (3) This backup set is the backup set just made, so will not be deleted.
+0721.724 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+0721.725 (3) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0721.728 (3) Resume backup (cfae34be8797, 3): finish run
+0721.729 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0721.733 (3) No email will/can be sent - the user has not configured an email address.
+0721.734 (3) The backup has not finished; a resumption is scheduled
+1021.727 (4) Opened log file at time: Wed, 15 Jan 2020 04:59:52 +0000 on http://35.237.139.96
+1021.730 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.8M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+1021.732 (4) Free space on disk containing Updraft's temporary directory: 7138.3 MB
+1021.736 (4) Backup run: resumption=4, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (1022s ago), job type=backup
+1021.738 (4) Scheduling a resumption (5) after 300 seconds (1579064692) in case this run gets aborted
+1021.742 (4) Checking if we have a zip executable available
+1021.744 (4) Creation of backups of directories: already finished
+1021.745 (4) Saving backup status to database (elements: 8)
+1021.748 (4) Database dump (WordPress DB): Creation was completed already
+1021.754 (4) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1021.756 (4) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1021.757 (4) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1021.758 (4) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+1021.760 (4) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+1021.761 (4) Saving backup history. Total backup size: 11.5 MB
+1021.764 (4) Requesting upload of the files that have not yet been successfully uploaded (5)
+1021.768 (4) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+1021.769 (4) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+1021.770 (4) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+1021.772 (4) An error condition has occurred for the first time during this job
+1021.774 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1021.776 (4) Number of backup sets in history: 1; groups (db): 1
+1021.777 (4) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1021.779 (4) This backup set is the backup set just made, so will not be deleted.
+1021.779 (4) Number of backup sets in history: 1; groups (files): 1
+1021.780 (4) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1021.780 (4) This backup set is the backup set just made, so will not be deleted.
+1021.781 (4) This backup set is the backup set just made, so will not be deleted.
+1021.781 (4) This backup set is the backup set just made, so will not be deleted.
+1021.781 (4) This backup set is the backup set just made, so will not be deleted.
+1021.782 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1021.783 (4) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1021.787 (4) Resume backup (cfae34be8797, 4): finish run
+1021.788 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1021.791 (4) No email will/can be sent - the user has not configured an email address.
+1021.792 (4) The backup has not finished; a resumption is scheduled
+1321.775 (5) Opened log file at time: Wed, 15 Jan 2020 05:04:52 +0000 on http://35.237.139.96
+1321.778 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.6M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+1321.780 (5) Free space on disk containing Updraft's temporary directory: 7122.9 MB
+1321.784 (5) Backup run: resumption=5, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (1322s ago), job type=backup
+1321.787 (5) Scheduling a resumption (6) after 300 seconds (1579064992) in case this run gets aborted
+1321.800 (5) Checking if we have a zip executable available
+1321.803 (5) Creation of backups of directories: already finished
+1321.806 (5) Saving backup status to database (elements: 8)
+1321.812 (5) Database dump (WordPress DB): Creation was completed already
+1321.817 (5) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1321.820 (5) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1321.821 (5) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1321.822 (5) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+1321.824 (5) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+1321.825 (5) Saving backup history. Total backup size: 11.5 MB
+1321.829 (5) Requesting upload of the files that have not yet been successfully uploaded (5)
+1321.833 (5) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+1321.834 (5) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+1321.836 (5) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+1321.837 (5) An error condition has occurred for the first time during this job
+1321.841 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1321.844 (5) Number of backup sets in history: 1; groups (db): 1
+1321.845 (5) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1321.847 (5) This backup set is the backup set just made, so will not be deleted.
+1321.847 (5) Number of backup sets in history: 1; groups (files): 1
+1321.848 (5) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1321.848 (5) This backup set is the backup set just made, so will not be deleted.
+1321.850 (5) This backup set is the backup set just made, so will not be deleted.
+1321.850 (5) This backup set is the backup set just made, so will not be deleted.
+1321.850 (5) This backup set is the backup set just made, so will not be deleted.
+1321.850 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1321.852 (5) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1321.856 (5) Resume backup (cfae34be8797, 5): finish run
+1321.857 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1321.860 (5) No email will/can be sent - the user has not configured an email address.
+1321.861 (5) The backup has not finished; a resumption is scheduled
+1624.125 (6) Opened log file at time: Wed, 15 Jan 2020 05:09:54 +0000 on http://35.237.139.96
+1624.128 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.8M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+1624.129 (6) Free space on disk containing Updraft's temporary directory: 7108 MB
+1624.133 (6) Backup run: resumption=6, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (1624s ago), job type=backup
+1624.136 (6) Scheduling a resumption (7) after 300 seconds (1579065294) in case this run gets aborted
+1624.139 (6) Checking if we have a zip executable available
+1624.140 (6) Creation of backups of directories: already finished
+1624.141 (6) Saving backup status to database (elements: 8)
+1624.145 (6) Database dump (WordPress DB): Creation was completed already
+1624.152 (6) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1624.153 (6) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1624.154 (6) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1624.156 (6) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+1624.157 (6) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+1624.159 (6) Saving backup history. Total backup size: 11.5 MB
+1624.162 (6) Requesting upload of the files that have not yet been successfully uploaded (5)
+1624.165 (6) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+1624.168 (6) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+1624.169 (6) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+1624.169 (6) An error condition has occurred for the first time during this job
+1624.173 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1624.176 (6) Number of backup sets in history: 1; groups (db): 1
+1624.177 (6) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1624.177 (6) This backup set is the backup set just made, so will not be deleted.
+1624.177 (6) Number of backup sets in history: 1; groups (files): 1
+1624.180 (6) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1624.180 (6) This backup set is the backup set just made, so will not be deleted.
+1624.181 (6) This backup set is the backup set just made, so will not be deleted.
+1624.181 (6) This backup set is the backup set just made, so will not be deleted.
+1624.181 (6) This backup set is the backup set just made, so will not be deleted.
+1624.181 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+1624.182 (6) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1624.185 (6) Resume backup (cfae34be8797, 6): finish run
+1624.188 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1624.191 (6) No email will/can be sent - the user has not configured an email address.
+1624.192 (6) The backup has not finished; a resumption is scheduled
+1924.095 (7) Opened log file at time: Wed, 15 Jan 2020 05:14:54 +0000 on http://35.237.139.96
+1924.098 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 12M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+1924.100 (7) Free space on disk containing Updraft's temporary directory: 7067.3 MB
+1924.103 (7) Backup run: resumption=7, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (1924s ago), job type=backup
+1924.105 (7) Scheduling a resumption (8) after 300 seconds (1579065594) in case this run gets aborted
+1924.109 (7) Checking if we have a zip executable available
+1924.111 (7) Creation of backups of directories: already finished
+1924.112 (7) Saving backup status to database (elements: 8)
+1924.116 (7) Database dump (WordPress DB): Creation was completed already
+1924.122 (7) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1924.124 (7) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1924.126 (7) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1924.128 (7) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+1924.129 (7) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+1924.130 (7) Saving backup history. Total backup size: 11.5 MB
+1924.133 (7) Requesting upload of the files that have not yet been successfully uploaded (5)
+1924.137 (7) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+1924.138 (7) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+1924.140 (7) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+1924.141 (7) An error condition has occurred for the first time during this job
+1924.144 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1924.146 (7) Number of backup sets in history: 1; groups (db): 1
+1924.148 (7) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1924.149 (7) This backup set is the backup set just made, so will not be deleted.
+1924.149 (7) Number of backup sets in history: 1; groups (files): 1
+1924.150 (7) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+1924.150 (7) This backup set is the backup set just made, so will not be deleted.
+1924.152 (7) This backup set is the backup set just made, so will not be deleted.
+1924.152 (7) This backup set is the backup set just made, so will not be deleted.
+1924.152 (7) This backup set is the backup set just made, so will not be deleted.
+1924.152 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+1924.153 (7) Retain: saving new backup history (sets now: 1) and finishing retain operation
+1924.156 (7) Resume backup (cfae34be8797, 7): finish run
+1924.157 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1924.161 (7) No email will/can be sent - the user has not configured an email address.
+1924.162 (7) The backup has not finished; a resumption is scheduled
+2229.343 (8) Opened log file at time: Wed, 15 Jan 2020 05:19:59 +0000 on http://35.237.139.96
+2229.346 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+2229.349 (8) Free space on disk containing Updraft's temporary directory: 6998.1 MB
+2229.352 (8) Backup run: resumption=8, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (2229s ago), job type=backup
+2229.355 (8) Scheduling a resumption (9) after 300 seconds (1579065899) in case this run gets aborted
+2229.358 (8) Checking if we have a zip executable available
+2229.360 (8) Creation of backups of directories: already finished
+2229.361 (8) Saving backup status to database (elements: 8)
+2229.365 (8) Database dump (WordPress DB): Creation was completed already
+2229.372 (8) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2229.373 (8) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2229.374 (8) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2229.376 (8) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+2229.377 (8) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+2229.378 (8) Saving backup history. Total backup size: 11.5 MB
+2229.381 (8) Requesting upload of the files that have not yet been successfully uploaded (5)
+2229.385 (8) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+2229.386 (8) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+2229.388 (8) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+2229.389 (8) An error condition has occurred for the first time during this job
+2229.392 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2229.393 (8) Number of backup sets in history: 1; groups (db): 1
+2229.396 (8) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+2229.397 (8) This backup set is the backup set just made, so will not be deleted.
+2229.397 (8) Number of backup sets in history: 1; groups (files): 1
+2229.398 (8) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+2229.398 (8) This backup set is the backup set just made, so will not be deleted.
+2229.400 (8) This backup set is the backup set just made, so will not be deleted.
+2229.400 (8) This backup set is the backup set just made, so will not be deleted.
+2229.400 (8) This backup set is the backup set just made, so will not be deleted.
+2229.400 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2229.401 (8) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2229.405 (8) Resume backup (cfae34be8797, 8): finish run
+2229.406 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2229.409 (8) No email will/can be sent - the user has not configured an email address.
+2229.411 (8) The backup has not finished; a resumption is scheduled
+2536.873 (9) Opened log file at time: Wed, 15 Jan 2020 05:25:07 +0000 on http://35.237.139.96
+2536.876 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.9M | 2M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+2536.877 (9) Free space on disk containing Updraft's temporary directory: 6910.9 MB
+2536.881 (9) Backup run: resumption=9, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (2537s ago), job type=backup
+2536.884 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+2536.888 (9) Scheduling a resumption (10) after 300 seconds (1579066207); but the job will then be aborted unless something happens this time
+2536.892 (9) Creation of backups of directories: already finished
+2536.893 (9) Saving backup status to database (elements: 8)
+2536.897 (9) Database dump (WordPress DB): Creation was completed already
+2536.903 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2536.905 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2536.906 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2536.908 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+2536.909 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+2536.910 (9) Saving backup history. Total backup size: 11.5 MB
+2536.914 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+2536.917 (9) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+2536.920 (9) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+2536.921 (9) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+2536.922 (9) An error condition has occurred for the first time during this job
+2536.925 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2536.928 (9) Number of backup sets in history: 1; groups (db): 1
+2536.929 (9) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+2536.931 (9) This backup set is the backup set just made, so will not be deleted.
+2536.931 (9) Number of backup sets in history: 1; groups (files): 1
+2536.932 (9) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+2536.932 (9) This backup set is the backup set just made, so will not be deleted.
+2536.933 (9) This backup set is the backup set just made, so will not be deleted.
+2536.933 (9) This backup set is the backup set just made, so will not be deleted.
+2536.934 (9) This backup set is the backup set just made, so will not be deleted.
+2536.934 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+2536.936 (9) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2536.939 (9) Resume backup (cfae34be8797, 9): finish run
+2536.940 (9) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+2536.944 (9) No email will/can be sent - the user has not configured an email address.
+2536.945 (9) The backup attempt has finished, apparently unsuccessfully
+2538.730 (9) Opened log file at time: Wed, 15 Jan 2020 05:25:09 +0000 on http://35.237.139.96
+2538.732 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.0.33-0+deb9u5 (apache2handler, Linux wordpress-vm-3 4.9.0-11-amd64 #1 SMP Debian 4.9.189-3 (2019-09-02) x86_64) MySQL: 5.7.27 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 23.9M | 4M) multisite: N openssl: OpenSSL 1.1.0k  28 May 2019 mcrypt: Y LANG: C ZipArchive::addFile: Y
+2538.733 (9) Free space on disk containing Updraft's temporary directory: 6910.9 MB
+2538.737 (9) Backup run: resumption=9, nonce=cfae34be8797, file_nonce=cfae34be8797 begun at=1579063370 (2539s ago), job type=backup
+2538.740 (9) Creation of backups of directories: already finished
+2538.741 (9) Saving backup status to database (elements: 8)
+2538.745 (9) Database dump (WordPress DB): Creation was completed already
+2538.752 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2538.753 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2538.756 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2538.757 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-others.zip: others: This file has not yet been successfully uploaded: will queue
+2538.758 (9) backup_2020-01-15-0442_WordPress_on_Google_Compute_Engi_cfae34be8797-db.gz: db: This file has not yet been successfully uploaded: will queue
+2538.760 (9) Saving backup history. Total backup size: 11.5 MB
+2538.764 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+2538.768 (9) Cloud backup selection (1/1): googlecloud with instance (1/1) (last)
+2538.769 (9) Beginning dispatch of backup to remote (googlecloud) (instance identifier s-d1c1bc5d192002bdb7906adbc13b18d5)
+2538.772 (9) Google Cloud: You do not have the UpdraftPlus googlecloud add-on installed - get it from https://updraftplus.com/shop/
+2538.773 (9) An error condition has occurred for the first time during this job
+2538.777 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2538.780 (9) Number of backup sets in history: 1; groups (db): 1
+2538.781 (9) Examining (for databases) backup set with group_id=0, nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+2538.783 (9) This backup set is the backup set just made, so will not be deleted.
+2538.784 (9) Number of backup sets in history: 1; groups (files): 1
+2538.785 (9) Examining (for files) backup set with nonce=cfae34be8797, datestamp=1579063370 (Jan 15 2020 04:42:50)
+2538.785 (9) This backup set is the backup set just made, so will not be deleted.
+2538.786 (9) This backup set is the backup set just made, so will not be deleted.
+2538.786 (9) This backup set is the backup set just made, so will not be deleted.
+2538.786 (9) This backup set is the backup set just made, so will not be deleted.
+2538.786 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+2538.788 (9) Retain: saving new backup history (sets now: 1) and finishing retain operation
+2538.792 (9) Resume backup (cfae34be8797, 9): finish run
+2538.793 (9) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+2538.796 (9) No email will/can be sent - the user has not configured an email address.
+2538.797 (9) The backup attempt has finished, apparently unsuccessfully

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tool><![CDATA[Instagram]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia1]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f813b730b59f224ad397_T69.jpg]]></img>
+		<link><![CDATA[https://www.instagram.com/]]></link>
+		<description><![CDATA[A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Pinterest]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia2]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f82db7545f9d6cf6e1c1_T67.jpg]]></img>
+		<link><![CDATA[https://www.pinterest.com/]]></link>
+		<description><![CDATA[Discover recipes, home ideas, style inspiration and other ideas to try.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Linked In]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia3]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f8440b137a4aa47a5274_T71.jpg]]></img>
+		<link><![CDATA[https://www.linkedin.com/]]></link>
+		<description><![CDATA[500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Twitch]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia4]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f859b730b56cb54ad501_T68.jpg]]></img>
+		<link><![CDATA[https://www.twitch.tv/]]></link>
+		<description><![CDATA[Twitch is the world's leading live streaming platform for gamers and the things we love. Watch and chat now with millions of other fans from around the world.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Facebook]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia5]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f86fb7545f8227f6e290_T66.jpg]]></img>
+		<link><![CDATA[https://www.facebook.com/]]></link>
+		<description><![CDATA[Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Tumblr]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia6]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f884b7545f53dff6e447_T72.jpg]]></img>
+		<link><![CDATA[https://www.tumblr.com/]]></link>
+		<description><![CDATA[Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Twitter]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia7]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f89c2f3232654c99c207_T65.jpg]]></img>
+		<link><![CDATA[https://twitter.com/?lang=en]]></link>
+		<description><![CDATA[From breaking news and entertainment to sports and politics, get the full story with all the live commentary.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Youtube]]></tool>
+		<label><![CDATA[SocialMedia]]></label>
+		<slug><![CDATA[socialmedia8]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f8b62f323249ef99c245_T70.jpg]]></img>
+		<link><![CDATA[https://www.youtube.com/]]></link>
+		<description><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[-]]></freetrial>
+	</node>
+</data>

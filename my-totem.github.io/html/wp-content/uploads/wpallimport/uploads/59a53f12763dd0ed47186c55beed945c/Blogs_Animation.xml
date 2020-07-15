@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tool><![CDATA[Twitonomy]]></tool>
+		<label><![CDATA[Analytics]]></label>
+		<slug><![CDATA[analytics1]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f8eeb7545f6fc6f6e89b_T58.jpg]]></img>
+		<link><![CDATA[https://www.twitonomy.com/]]></link>
+		<description><![CDATA[Browse, search, filter and get insights on the people you follow and those who follow you.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Sketchfab]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation1]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dc00052d671b05aea087_T30.jpg]]></img>
+		<link><![CDATA[https://sketchfab.com/features/animation]]></link>
+		<description><![CDATA[Publish and find animated 3D models online and in VR]]></description>
+		<price><![CDATA[$3.99]]></price>
+		<freetrial><![CDATA[No]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Animate]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation2]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dc3eaf8806d6bb36143e_T31.jpg]]></img>
+		<link><![CDATA[https://www.adobe.com/products/animate.html]]></link>
+		<description><![CDATA[Design interactive vector and bitmap animations for games, apps, and the web.]]></description>
+		<price><![CDATA[$20.99]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Biteable]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation3]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dc7466fd1b263e93d647_T28.png]]></img>
+		<link><![CDATA[https://biteable.com/animation/]]></link>
+		<description><![CDATA[Create gorgeous animation online in an instant]]></description>
+		<price><![CDATA[$29]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Animaker]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation4]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dcafcd9d01e888ba545e_T32.png]]></img>
+		<link><![CDATA[https://www.animaker.com/2d-animation-software]]></link>
+		<description><![CDATA[Make animated 2D videos online for free!]]></description>
+		<price><![CDATA[$12]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Toon Boom]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation5]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dcf3cd9d01372eba55f4_T33.png]]></img>
+		<link><![CDATA[https://www.toonboom.com]]></link>
+		<description><![CDATA[The most powerful software ever created for animation production.]]></description>
+		<price><![CDATA[$23]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[KeyShot]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation6]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dd2d3fffe2a716f8827b_T34.png]]></img>
+		<link><![CDATA[https://www.keyshot.com/animation/]]></link>
+		<description><![CDATA[Animated visuals. In real-time.]]></description>
+		<price><![CDATA[$995]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[ABCYa]]></tool>
+		<label><![CDATA[Animation]]></label>
+		<slug><![CDATA[animation7]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dd61ee803c34d4e7a065_T35.jpg]]></img>
+		<link><![CDATA[http://www.abcya.com/animate.htm]]></link>
+		<description><![CDATA[ABCya! Animate is the best way for kids to make animations on the web.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+</data>

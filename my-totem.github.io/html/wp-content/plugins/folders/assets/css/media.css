@@ -1,0 +1,26 @@
+.media-modal-content .attachments-browser .media-toolbar-secondary {
+    max-width: 66%;
+    width: 66%;
+}
+.media-modal-content .media-frame select.attachment-filters {
+    width: 28% !important;
+}
+#media-attachment-taxonomy-filter {
+    border: solid 1px #FF5983;
+    color: #FF5983;
+    font-weight: bold;
+}
+#media-attachment-taxonomy-filter option {
+    color: #000000;
+}
+#media-attachment-taxonomy-filter option:first-child {
+    font-weight: bold;
+}
+.media-frame .uploader-inline {
+    z-index: 1;
+}
+#wp-media-grid .media-toolbar-secondary {
+    float: left;
+    height: 100%;
+    padding: 0 0 10px 0;
+}

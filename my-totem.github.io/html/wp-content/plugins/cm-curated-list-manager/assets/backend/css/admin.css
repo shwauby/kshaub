@@ -1,0 +1,31 @@
+.inline-edit-row .input-text-wrap input[type=url] {
+    width: 100%;
+}
+
+.cmlm-admin-link-icon{
+    vertical-align: top;
+}
+
+.cmlm-admin-color-dark{
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #ffffff;
+    font-weight: bold;
+}
+.cmlm-admin-color{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+.cmlm-form-field-checkboxes li{
+    list-style: none;
+    float: left;
+    margin-right: 15px;
+}
+
+.cmlm-form-field-checkboxes label{
+    float: left;
+}
+.cmlm-form-field-checkboxes{
+    overflow: auto;
+}

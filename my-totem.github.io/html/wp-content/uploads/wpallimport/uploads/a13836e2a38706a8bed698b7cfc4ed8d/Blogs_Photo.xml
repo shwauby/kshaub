@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tool><![CDATA[Pixlr]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo-6]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9ee745f1e4687fa2a712c_T51.jpg]]></img>
+		<link><![CDATA[https://pixlr.com/]]></link>
+		<description><![CDATA[With an impressive 2 million+ combinations of Free effects, filters and overlays to get creative, PIXLR turns every mobile device into a complete mobile photo editing tool that works best for simple tweaks right up to the more creative edits. Now you can edit your photos from wherever you are.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[PicMonkey]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo1]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9de2cee803c50bfe7b14b_T1.png]]></img>
+		<link><![CDATA[https://www.picmonkey.com/blog/picmonkey-subscription-basic?utm_source=google&utm_medium=cpc&utm_campaign=G_Search_Brand_Proper_Not-Free_USA_EM&utm_content=PicMonkey_EM&utm_term=picmonkey_e_c_&gclid=CjwKCAjw5pPnBRBJEiwAULZKvgqaNDcvgVIJFwiXLz4Q-mDsahP_CuKCu0w9m0Be9lU9NPyTM1Xm3xoCaooQAvD_BwE]]></link>
+		<description><![CDATA[Create beautiful photos, logos, social media graphics, and facebook covers with PicMonkey's easy yet powerful photo editing and graphic design software.]]></description>
+		<price><![CDATA[$7.99]]></price>
+		<freetrial><![CDATA[No]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Adobe Photoshop]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo2]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9ed4d2f323204f3990dfc_T2.png]]></img>
+		<link><![CDATA[https://www.adobe.com/]]></link>
+		<description><![CDATA[Create and enhance photos, illustrations, and 3D artwork.]]></description>
+		<price><![CDATA[$20.99]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Adobe Creative Cloud]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo3]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dde5cd9d011674ba6ba1_T3.png]]></img>
+		<link><![CDATA[https://www.adobe.com/]]></link>
+		<description><![CDATA[20+ desktop and mobile apps, 100GB of cloud storage, portfolio website, and premium fonts.]]></description>
+		<price><![CDATA[$52.99]]></price>
+		<freetrial><![CDATA[No]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Ivory Mix]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo4]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9eddb3020d0272e0f508c_T4.png]]></img>
+		<link><![CDATA[https://ivorymix.com/]]></link>
+		<description><![CDATA[Smart Visual Marketing Strategies and Stock Photos for Busy Entrepreneurs.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Afterlight]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo5]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9ee375f1e461e522a70dd_T5.jpg]]></img>
+		<link><![CDATA[https://afterlight.co/]]></link>
+		<description><![CDATA[A complete overhaul of the widely-popular Afterlight, thoughtfully re-designed & re-developed with ease of use in mind & an extensive list of brand new features.]]></description>
+		<price><![CDATA[$2.99]]></price>
+		<freetrial><![CDATA[No]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Vsco]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo7]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9eee73020d074400f5858_T7.jpg]]></img>
+		<link><![CDATA[https://vsco.co/]]></link>
+		<description><![CDATA[VSCO is a photo company for creators, by creators.]]></description>
+		<price><![CDATA[$19.99]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Gimp]]></tool>
+		<label><![CDATA[Photo]]></label>
+		<slug><![CDATA[photo8]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9ef1b5f1e46a7032a7479_T8.jpeg]]></img>
+		<link><![CDATA[https://www.gimp.org/]]></link>
+		<description><![CDATA[GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+</data>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tool><![CDATA[Ripl]]></tool>
+		<label><![CDATA[Video]]></label>
+		<slug><![CDATA[video1]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9ef5b0b137af58379eb21_T26.jpg]]></img>
+		<link><![CDATA[https://www.ripl.com]]></link>
+		<description><![CDATA[Create eye-catching social media videos.]]></description>
+		<price><![CDATA[$14.99]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Premiere Pro]]></tool>
+		<label><![CDATA[Video]]></label>
+		<slug><![CDATA[video2]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9ef85b730b535914a6ebe_T27.jpg]]></img>
+		<link><![CDATA[https://www.adobe.com/products/premiere.html]]></link>
+		<description><![CDATA[Premiere Pro is the leading video editing software for film, TV, and the web.]]></description>
+		<price><![CDATA[$20.99]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[PosterMyWall]]></tool>
+		<label><![CDATA[Video]]></label>
+		<slug><![CDATA[video3]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9deccee803c4835e7b47d_T22.jpg]]></img>
+		<link><![CDATA[https://www.postermywall.com]]></link>
+		<description><![CDATA[Create amazing Posters, Videos & Graphics For Your Business.]]></description>
+		<price><![CDATA[$9.98]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Biteable]]></tool>
+		<label><![CDATA[Video]]></label>
+		<slug><![CDATA[video4]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9dc7466fd1b263e93d647_T28.png]]></img>
+		<link><![CDATA[https://biteable.com]]></link>
+		<description><![CDATA[Make better videos than your competitors. On your lunch break.]]></description>
+		<price><![CDATA[$29]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Promo]]></tool>
+		<label><![CDATA[Video]]></label>
+		<slug><![CDATA[video5]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f025b730b53a5f4a713e_T29.jpg]]></img>
+		<link><![CDATA[https://promo.com]]></link>
+		<description><![CDATA[All the videos you need to promote your business. Simply add your message and logo.]]></description>
+		<price><![CDATA[$49]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+</data>

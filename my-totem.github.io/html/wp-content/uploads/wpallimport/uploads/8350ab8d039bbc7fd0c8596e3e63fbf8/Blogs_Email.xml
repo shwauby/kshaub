@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tool><![CDATA[Mail Chimp]]></tool>
+		<label><![CDATA[Email]]></label>
+		<slug><![CDATA[email1]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f92d3020d0d30f0fab81_T52.jpg]]></img>
+		<link><![CDATA[https://mailchimp.com/]]></link>
+		<description><![CDATA[Email marketing, ads, landing pages, and CRM tools to grow your business on your terms.]]></description>
+		<price><![CDATA[free]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[Constant Contact]]></tool>
+		<label><![CDATA[Email]]></label>
+		<slug><![CDATA[email2]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f9442f32321e3599cf28_T53.jpg]]></img>
+		<link><![CDATA[https://www.constantcontact.com/index.jsp]]></link>
+		<description><![CDATA[With Constant Contact, you can create effective email marketing and other online marketing campaigns to meet your business goals.]]></description>
+		<price><![CDATA[$20]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[ConvertKit]]></tool>
+		<label><![CDATA[Email]]></label>
+		<slug><![CDATA[email3]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f95f9b4fd57c96a7313e_T54.jpg]]></img>
+		<link><![CDATA[https://convertkit.com/]]></link>
+		<description><![CDATA[Get the email marketing tools and automation you need to grow your blog and business. Join 25000+ creators and try ConvertKit today.]]></description>
+		<price><![CDATA[$29]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+	<node>
+		<tool><![CDATA[AWeber]]></tool>
+		<label><![CDATA[Email]]></label>
+		<slug><![CDATA[email4]]></slug>
+		<img><![CDATA[https://uploads-ssl.webflow.com/5c5c715c2b0f591069822560/5dc9f9789c1db96a12c0f19d_T64.jpg]]></img>
+		<link><![CDATA[https://www.aweber.com/]]></link>
+		<description><![CDATA[Looking for affordable and easy to use email marketing and autoresponder tools? Click here to start your free email marketing trial with AWeber.]]></description>
+		<price><![CDATA[$19]]></price>
+		<freetrial><![CDATA[Yes]]></freetrial>
+	</node>
+</data>
