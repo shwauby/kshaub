@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "kshaub",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
